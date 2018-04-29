@@ -1,5 +1,5 @@
 # anagrams
-For get anagrams:
+For get anagrams:/n
 Init Anagram class
 call findAnagrams method(returning ArrayList<ArrayList<String>>)
 That’s all
